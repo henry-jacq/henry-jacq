@@ -6,15 +6,15 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=henry-jacq" alt="henry-jacq" /></a> </p> -->
 <br>
 
-- 🔭 I’m currently working on [photogram](https://git.selfmade.ninja/Henry/photogram)
+- 🔭 I’m currently working on [Photogram](https://git.selfmade.ninja/Henry/photogram)
 
-- 🌱 I’m currently learning **full-stack web development**
+- 🌱 I’m currently learning **Full-stack web development**
 
-- 🤝 I’m interested in **cybersecurity and IoT**
+- 🤝 I’m interested in **Cybersecurity and IoT**
 
 - 👨‍💻 All of my projects are available at [henry-jacq.github.io](https://henry-jacq.github.io/portfolio).
 
-- 💬 Ask me about **php, bash and python scripting**
+- 💬 Ask me about **PHP, Bash and Python scripting**
 
 - 📫 How to reach me **henryeditz267@gmail.com**
 
