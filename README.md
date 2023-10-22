@@ -1,12 +1,14 @@
 #
 
-<img src="welcome.gif" width="100%" height="300px">
 <a align="center">
+<img src="welcome.gif" width="100%" height="300px">
 </a>
-<h1 align="center"> Hi! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm Henry !
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Full+stack+developer)](https://git.io/typing-svg)
+<h1 align="center">
+  
+Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm Henry !
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=I'm+a+Full+stack+developer)](https://git.io/typing-svg)
 </h1>
 
 <h3 align="left"> ~ Languages I'm familiar with :</h3>
