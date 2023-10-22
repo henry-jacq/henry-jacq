@@ -5,7 +5,7 @@
 </a>
 <h1 align="center"> Hi! <img  src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm Henry !
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1188F7&center=true&vCenter=true&width=435&lines=I'm+a+Full-stack+web+developer;I'm+using+arch+BTW;I+like+to+write+shell+scripts)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Full+stack+developer)](https://git.io/typing-svg)
 
 </h1>
 
