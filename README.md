@@ -21,7 +21,7 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 
 <h3 align="left"> ~ Frequently used tools and services:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,docker,git,github,gitlab,linux,mongodb,mysql,neovim,postgres,postman,rabbitmq,redis,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,docker,git,github,gitlab,linux,mongodb,mysql,neovim,postman,rabbitmq,redis,vscode&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Connect me with :</h3>
 
