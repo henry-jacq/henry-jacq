@@ -10,6 +10,7 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Full+stack+developer;I+like+to+write+shell+scripts;Find+me+at+127.0.0.1)](https://git.io/typing-svg)
 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=henry-jacq&label=Profile%20views&color=0e75b6&style=flat" alt="henry-jacq" /> </p> 
 
 <h3 align="left"> ~ Languages I'm familiar with :</h3>
 
