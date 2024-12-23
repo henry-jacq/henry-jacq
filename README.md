@@ -14,7 +14,7 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 
 <h3 align="left"> ~ Languages I'm familiar with :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,python,html,css,javascript,php&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,python,javascript,php&theme=dark)](https://skillicons.dev)
 
 <h3 align="left"> ~ Frameworks :</h3>
 
