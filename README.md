@@ -71,12 +71,6 @@
 
 ---
 
-### ⏱️ Weekly Coding Stats
-
-[![Coding Time](https://wakatime.com/badge/user/henry-jacq.svg)](https://wakatime.com/@henry-jacq)
-
----
-
 ### 🚀 Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=henry-jacq&color=purple-600&style=for-the-badge)
