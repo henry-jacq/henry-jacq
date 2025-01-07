@@ -1,59 +1,103 @@
-#
-
-<a align="center">
-<img src="welcome.gif" width="100%" height="300px">
-</a>
-
-<h1 align="center">
-  
-Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="chan" width="30px" height="30px"> I'm Henry !
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=I'm+a+Full+stack+developer;I+like+to+write+shell+scripts;Find+me+at+127.0.0.1)](https://git.io/typing-svg)
-</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=henry-jacq&label=Profile%20views&color=0e75b6&style=flat" alt="henry-jacq" /> </p> 
-
-<h3 align="left"> ~ Languages I'm familiar with :</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,python,javascript,php&theme=dark)](https://skillicons.dev)
-
-<h3 align="left"> ~ Frameworks :</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,jquery,bootstrap,sass,tailwind&theme=dark)](https://skillicons.dev)
-
-<h3 align="left"> ~ Frequently used tools and services:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=arduino,docker,git,github,gitlab,linux,mongodb,mysql,neovim,postman,rabbitmq,redis,vscode&theme=dark)](https://skillicons.dev)
-
-<h3 align="left"> ~ Connect me with :</h3>
-
-<p align="left">
-  <a href="https://discord.com/channels/@me">
-    <img src="https://skillicons.dev/icons?i=discord" />
+# <div align="center">Hi there, I'm Henry 👋</div>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&vCenter=true&width=450&lines=Full+Stack+Developer;Linux+Enthusiast;Find+me+at+127.0.0.1" alt="Typing SVG">
   </a>
-  <a href="https://www.instagram.com/being_henry/" >
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://linkedin.com/in/henry-jm-058a7b219">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/@being__henry">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+</div>
+
+---
+
+## 🌟 About Me
+
+- 💻 I'm a **Full Stack Developer** and **Linux enthusiast**.  
+- 🌱 Currently learning **Dart & Flutter** for mobile app development.  
+- 🚀 Passionate about building projects to enhance my skills.  
+- 🛠️ Primary stack: **LAMP** (Linux, Apache, MySQL, PHP).  
+- 🎯 Hobbyist developer with a focus on creating solutions.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Frameworks & Libraries
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+### 🔥 Contribution Activity
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henry-jacq&theme=github-dark&hide_border=true&color=purple-600)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🚀 Stats Overview
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henry-jacq&show_icons=true&theme=github_dark&hide_border=true&title_color=purple-600&icon_color=purple-600&text_color=white)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=henry-jacq&theme=github-dark&hide_border=true&ring=purple-600&fire=purple-600&sideNums=purple-600)
+
+---
+
+### 🔍 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henry-jacq&layout=compact&theme=github_dark&hide_border=true&title_color=purple-600&text_color=white)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=henry-jacq&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&title_color=purple-600)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### ⏱️ Weekly Coding Stats
+
+[![Coding Time](https://wakatime.com/badge/user/henry-jacq.svg)](https://wakatime.com/@henry-jacq)
+
+---
+
+### 🚀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=henry-jacq&color=purple-600&style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+- **[Photogram](https://github.com/henry-jacq/photogram)**: A social media photo-sharing platform with subscription-based features.  
+- **[Passito](https://github.com/henry-jacq/passito)**: Outpass management system for institutions.  
+- **[StoryLog](https://github.com/henry-jacq/storylog)**: Personal journal manager with analytics.  
+- **[ThreatWatch](https://github.com/henry-jacq/threatwatch)**: DDoS detection powered by ML analytics.  
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://t.me/henry_jacq" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40henry_jacq-28a8ea"></a>
+  <a href="https://linkedin.com/in/henry-jm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-henry-informational"></a>
+<!--   <a href="https://henry.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-henry.dev-red"></a> -->
 </p>
-
-
-
-| GitHub Stats                                                                                           | Top Languages                                                                                            |
-|--------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-| ![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=henry-jacq&show_icons=true&theme=neon) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry-jacq&layout=compact&theme=neon) |
-
-| GitHub Stats                                                                                                   | Profile Details                                                                                               |
-|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| ![Henry's Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=henry-jacq&theme=2077&utcOffset={utcOffset}) | ![Henry's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=henry-jacq&theme=2077) |
-
-    
-     
- ## Projects
- - Portfolio - Click [Here](https://henryj-jacq.github.io/portfolio) to view the Site
- - Passito, Outpass Management System - Click [Here](https://github.com/henry-jacq/passito) - Full Stack Project Under Development
- - Photogram, A Social Media Web App - Click [Here](https://github.com/henry-jacq/photogram) - Full Stack Project Under Development
