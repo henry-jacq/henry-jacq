@@ -48,32 +48,22 @@
 
 ### 🔥 Contribution Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henry-jacq&theme=github-dark&hide_border=true&color=purple-600)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henry-jacq&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 ### 🚀 Stats Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=henry-jacq&show_icons=true&theme=github_dark&hide_border=true&title_color=purple-600&icon_color=purple-600&text_color=white)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=henry-jacq&theme=github-dark&hide_border=true&ring=purple-600&fire=purple-600&sideNums=purple-600)
-
----
-
-### 🔍 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=henry-jacq&layout=compact&theme=github_dark&hide_border=true&title_color=purple-600&text_color=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=henry-jacq&show_icons=true&theme=github_dark&hide_border=true&title_color=purple-600&icon_color=purple-600&text_color=white" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-jacq&layout=compact&theme=github_dark&hide_border=true&title_color=purple-600&text_color=white" alt="Top Languages" height="150">
+</div>
 
 ---
 
 ### 🏆 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=henry-jacq&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&title_color=purple-600)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-### 🚀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=henry-jacq&color=purple-600&style=for-the-badge)
 
 </div>
 
@@ -92,6 +82,5 @@
 
 <p>
   <a href="https://t.me/henry_jacq" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40henry_jacq-28a8ea"></a>
-  <a href="https://linkedin.com/in/henry-jm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-henry-informational"></a>
-<!--   <a href="https://henry.dev" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-henry.dev-red"></a> -->
+  <a href="https://linkedin.com/in/henry" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-henry-informational"></a>
 </p>
