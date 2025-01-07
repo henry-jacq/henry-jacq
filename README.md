@@ -40,34 +40,19 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-### 🔥 Contribution Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=henry-jacq&theme=github-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-### 🚀 Stats Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henry-jacq&show_icons=true&theme=github_dark&hide_border=true&title_color=purple-600&icon_color=purple-600&text_color=white" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-jacq&layout=compact&theme=github_dark&hide_border=true&title_color=purple-600&text_color=white" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=henry-jacq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=blue&title_color=blue" alt="GitHub Stats" height="180">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-jacq&layout=compact&theme=github_dark&hide_border=true&title_color=blue" alt="Top Languages" height="180">
+  <br><br><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=henry-jacq&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&title_color=purple-600" alt="Trophies">
+  </a>
 </div>
 
----
 
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=henry-jacq&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&title_color=purple-600)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
 
 ## 🚀 Projects
 
@@ -76,9 +61,7 @@
 - **[StoryLog](https://github.com/henry-jacq/storylog)**: Personal journal manager with analytics.  
 - **[ThreatWatch](https://github.com/henry-jacq/threatwatch)**: DDoS detection powered by ML analytics.  
 
----
-
-## 🌐 Connect with Me
+## 🌐 Socials
 
 <p>
   <a href="https://t.me/henry_jacq" target="_blank"><img src="https://img.shields.io/badge/Telegram-%40henry_jacq-28a8ea"></a>
