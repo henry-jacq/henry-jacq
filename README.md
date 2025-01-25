@@ -14,7 +14,6 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 ## 🌟 About Me
 
 - 💻 I'm a **Full Stack Developer** and **Linux enthusiast**.  
-- 🌱 Currently learning **Dart & Flutter** for mobile app development.  
 - 🚀 Passionate about building projects to enhance my skills.  
 - 🛠️ Primary stack: **LAMP** (Linux, Apache, MySQL, PHP).  
 - 🎯 Hobbyist developer with a focus on creating solutions.
