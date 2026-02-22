@@ -40,15 +40,4 @@ Hi, <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=henry-jacq&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=blue&title_color=blue" alt="GitHub Stats" height="180">
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henry-jacq&layout=compact&theme=github_dark&hide_border=true&title_color=blue" alt="Top Languages" height="180">
-  <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=henry-jacq&theme=midnight-purple&no-frame=false&row=1&column=6&no-bg=true&margin-w=25" alt="Trophies">
-  </a>
-</div>
 
